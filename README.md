@@ -50,3 +50,6 @@ Nesse desafio foram  realizada diversas consultas, com o objetivo de retornar os
 11 - Buscar o nome do filme e o gênero do tipo "Mistério"
 
  12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
+
+
+ 
