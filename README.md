@@ -24,7 +24,7 @@ Tabela responsável por representar um relacionamento do tipo muitos para muitos
 FilmesGenero
 Tabela responsável por representar um relacionamento do tipo muitos para muitos entre filmes e gêneros, ou seja, um filme pode ter mais de um gênero, e um gênero pode fazer parte de muitos filmes.
 
-Nesse desafio foram  realizada diversas consultas, com o objetivo de retornar os dados a seguintes: <br><br>
+Nesse desafio foram  realizada diversas consultas em SQL, com o objetivo de retornar os dados a seguintes: <br><br>
  1 - Nome e ano dos filmes
 
  2 - Nome e ano dos filmes, ordenados por ordem crescente pelo ano
